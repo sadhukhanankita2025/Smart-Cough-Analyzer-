@@ -1,7 +1,8 @@
 streamlit
-tensorflow
+tensorflow-cpu
 numpy
 librosa
 matplotlib
 soundfile
 opencv-python-headless
+scikit-learn
