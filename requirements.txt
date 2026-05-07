@@ -1,8 +1,8 @@
-streamlit
-tensorflow-cpu
-numpy
-librosa
-matplotlib
-soundfile
-opencv-python-headless
-scikit-learn
+streamlit==1.35.0
+tensorflow-cpu==2.15.0
+numpy==1.26.4
+librosa==0.10.1
+matplotlib==3.8.4
+soundfile==0.12.1
+opencv-python-headless==4.9.0.80
+scikit-learn==1.4.2
